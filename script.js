@@ -1,3 +1,3 @@
 function navigateToAnotherPage() {
-      window.location.href = 'yes.html';
+      window.location.href = '2/yes.html';
 }
